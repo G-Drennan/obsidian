@@ -1,0 +1,6 @@
+- Empire took over the valley of Prywyd 375 years ago. 
+- Prywyd is known for its fertile land.
+- Elven shirnes are covered in wards and stone or nature that frames a mirror. 
+	- Destroyed shines are covered in iron and steal.
+	- Shrines are built on lay line intersections, where the veil between the physical realm and the arcane realm.
+- Peoples homes are often decorated with metal tokens to ward of bad spirits or bad fortune.

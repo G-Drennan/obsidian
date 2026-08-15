@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "2ddc564c24c7ee94",
+    "type": "split",
+    "children": [
+      {
+        "id": "b82a9d8093b7612f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1f692789e821104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Intro adventure - Gorgon of Farfield.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro adventure - Gorgon of Farfield"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb0126daea4e3e2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5b5351e04532ec3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f13d6037c6207ad9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "60149d8dc0220132",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59c2da237c594a3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e6fad1052ac4109",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc8387cc85e03828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a66a64e81ed39359",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quests/Intro adventure - Gorgon of Farfield.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intro adventure - Gorgon of Farfield"
+            }
+          },
+          {
+            "id": "2e6635890afa862a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quests/Intro adventure - Gorgon of Farfield.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro adventure - Gorgon of Farfield"
+            }
+          },
+          {
+            "id": "2c719d21e560ac83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2db34abbde79044d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ee2f91c3185d2bdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quests/Intro adventure - Gorgon of Farfield.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro adventure - Gorgon of Farfield"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f1f692789e821104",
+  "lastOpenFiles": [
+    "Resources/Enviroments/Cave.md",
+    "Quests/Intro adventure - Gorgon of Farfield.md",
+    "Campaign Frame/Frame.md",
+    "Campaign Frame/Locations/FarField.md",
+    "Campaign Frame/Locations",
+    "Resources/Enviroments",
+    "Resources",
+    "Quests/Gorgon of Farfield resources/FarField.png",
+    "Quests/Gorgon of Farfield resources",
+    "Campaign Frame/Ideas.md",
+    "Players",
+    "Campaign Frame",
+    "Quests"
+  ]
+}

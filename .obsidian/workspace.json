@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "6fa8001ef70e65d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc938752f527a123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a112a06cc3c539d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vally_of_Prywyd/Quests/Intro adventure - Gorgon of Farfield.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro adventure - Gorgon of Farfield"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "468eb805bc3f0284",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d2cfc21f4b92230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af923cd2b8cc51e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9ec8d3b710ce6390",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ac32af6bcebeac0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d1ed0b42465d6129",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d7f5a89951b90bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49f9ec969a9099ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vally_of_Prywyd/Quests/Intro adventure - Gorgon of Farfield.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intro adventure - Gorgon of Farfield"
+            }
+          },
+          {
+            "id": "1cf01983637a9ea9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vally_of_Prywyd/Quests/Intro adventure - Gorgon of Farfield.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro adventure - Gorgon of Farfield"
+            }
+          },
+          {
+            "id": "bdb6f01bfdec4094",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19a4be990e72708e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "43d7e5f4b06710e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vally_of_Prywyd/Quests/Intro adventure - Gorgon of Farfield.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro adventure - Gorgon of Farfield"
+            }
+          },
+          {
+            "id": "749beb2be6258299",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a112a06cc3c539d9",
+  "lastOpenFiles": [
+    "Vally_of_Prywyd/Campaign Frame/Frame.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Vally_of_Prywyd/Quests/Intro adventure - Gorgon of Farfield.md"
+  ]
+}
