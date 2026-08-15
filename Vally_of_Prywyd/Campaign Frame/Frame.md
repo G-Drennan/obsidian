@@ -30,6 +30,7 @@ To solve this the last mage made contact with a far off kingdom to organise a wa
 - Dwarf: Seafaring nomads ever since their island home was destroyed by a volcano thousands of years ago, Dwarves are superstitious of land convinced that it lies about its stability, at least the ocean you can tell when it changes. 
 - Elves: Keepers of the old magic at shrines, they form small communities that travel from shrine to shrine holding onto their fading culture. City elves have forsaken this life and moved on to modernity.
 - Giant: Mountain people. 
+- Drakona: A ridged society with a strict hierarchy, before the empire came into conflict with them they were rumored about by dwarf sailors who traded with them.   
 - Infernal: The amount of people born as inferals has been increasing over the years, people attribute it to many problems, from abandoned children, the disapproval of the gods, and the practice of magic. Infernals are unique in thier ability to cast magic when in the presence of metal. The empire sends out inquisitors to each village to claim infernal children for unknown purposes.
   The reason for the increasing appearance of infernals is that the lich lord is returning and his magic is reaching out to claim the population as his own.  
 ### Classes
