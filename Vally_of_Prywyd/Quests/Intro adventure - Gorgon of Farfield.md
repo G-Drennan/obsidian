@@ -1,18 +1,16 @@
 The players start in the small town of Farfield,  a small remote farming village. They are here to find out why crops and lumber have stopped being delivered for **[[Lord Theodore Hardwyn]]**. 
 
-People have been going missing in the woods, a search party found the statue of a young Lumberjack known by the village. The village has since smelted down their available metal to create pikes to surround the village in to protect it.
+People have been going missing in the woods, a search party found the statue of a young Lumberjack known by the village. The village has since smelted down their available metal to create pikes to surround the village in to protect it. *Have a players relation in the village be missing.*
 ## Adventure
 **Background:** An elven priest welcomed a group of adventures into her cave when a storm hit but told them to not go into her room or the ritual chamber. Discovering her a practitioner of magic when she refused their gifts of wine laced with iron -as is customary- they attacked her. She felt to the ritual chamber begging her ancestors to allow her to pass into the magic realm only for the adventures to smash the mirror to prevent her from summoning demons. This cursed her and turned the adventures to Jade.
 ### Farfield village: Roleplay challenge
-*Players are here to find out why the crops haven't been delivered.*
-*Have a players relation in the village be missing.*
-*Its raining.*
+*Its raining.* *Metal pikes litter the outskirts of the village.* *The streets are empty msot people would be working at this hour you suppose. A person sees you coming and quickly goes inside.* 'If you knew better you would stay out of the woods, just ask the lumberjacks by the sawmill.'
 
 - Rumors of talking stone. “The stone is remembering things it shouldn’t.”
 - Village keeps the events happening in the wood secret as to avoid people believing the village is cursed. "No one would buy grain from a cursed village or lumber from a cursed forest."
 - Farmers have stopped working the fields, only half the crop has been harvested.
 	- "The forest is to close to the field, farmers who strayed too far haven't returned"
-- Lumberjack wont go near the forest.
+- Lumberjack wont go near the forest. 'Don was turned to stone I tell you, Prob the work of some foal witch.'
 - A hunters who has been known for their attendance of the inn every night has not visited in a while, the bar tender will ask the players check in them. She is sulking in the hunters guild which is empty now the forest is believed cursed
 	- The hunter watched her companion turn to stone as they were hunting near the cursed cave. "The symbols around the cave show that its a cursed place."
 	- The hunter doesn't use her right hand which is gloved while her left hand is ungloved. This is because she was attacked by the gorgon and barely survived.  
