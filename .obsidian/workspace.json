@@ -67,16 +67,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vally_of_Prywyd/Campaign Frame/Locations/FarField.md",
+                "file": "Vally_of_Prywyd/Campaign Frame/Factions/The Dominion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FarField"
+              "title": "The Dominion"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro adventure - Gorgon of Farfield"
+              "title": "Backlinks"
             }
           },
           {
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro adventure - Gorgon of Farfield"
+              "title": "Outgoing links"
             }
           },
           {
@@ -219,7 +219,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro adventure - Gorgon of Farfield"
+              "title": "Outline"
             }
           },
           {
@@ -228,25 +228,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "14eeaba44e3f0adc",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -262,14 +253,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7a356b8b0420508",
+  "active": "400e478716496cd7",
   "lastOpenFiles": [
+    "Vally_of_Prywyd/Resources/NPCs/Travelling Merchant - Thalia De'Tromper.md",
     "Vally_of_Prywyd/Quests/Intro adventure - Gorgon of Farfield.md",
-    "Vally_of_Prywyd/Campaign Frame/Locations/FarField.md",
-    "Vally_of_Prywyd/Campaign Frame/Locations/Yindr.md",
+    "Vally_of_Prywyd/Resources/Enviroments/Tavern.md",
     "Vally_of_Prywyd/Campaign Frame/Locations/Farfield.md",
-    "Vally_of_Prywyd/Campaign Frame/Frame.md",
     "Vally_of_Prywyd/Campaign Frame/Ancestry/Auxiliary.md",
+    "Vally_of_Prywyd/Campaign Frame/Factions/The Dominion.md",
+    "Vally_of_Prywyd/Campaign Frame/Locations/Yindr.md",
+    "Vally_of_Prywyd/Campaign Frame/Frame.md",
     "Vally_of_Prywyd/Campaign Frame/Ancestry/Infernal.md",
     "Vally_of_Prywyd/Campaign Frame/Factions/Prywrd's Custodians - Keepers & Seekers.md",
     "DH-SRD-May202025.pdf",
@@ -279,7 +272,6 @@
     "Vally_of_Prywyd/Campaign Frame/Factions/The Last Mage.md",
     "Vally_of_Prywyd/Campaign Frame/Factions/The Lich.md",
     "Vally_of_Prywyd/Campaign Frame/Ancestry/Halflings.md",
-    "Vally_of_Prywyd/Campaign Frame/Factions/The Dominion.md",
     "Vally_of_Prywyd/Campaign Frame/Ancestry/Humans.md",
     "Vally_of_Prywyd/Campaign Frame/Ancestry/Giants.md",
     "Vally_of_Prywyd/Campaign Frame/Ancestry/Drakona.md",
@@ -289,7 +281,6 @@
     "Vally_of_Prywyd/Campaign Frame/Factions",
     "Untitled 1.base",
     "Untitled.base",
-    "Vally_of_Prywyd/Resources/Enviroments/Tavern.md",
     "[[DH-SRD-May202025.pdf.md",
     "Grogon.md",
     "Additional-Sheets-Daggerheart-May212025.pdf",
