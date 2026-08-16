@@ -4,7 +4,7 @@ People have been going missing in the woods, a search party found the statue of 
 *Have a players relation in the village be missing.*
 ## Adventure
 **Background:** An elven priest welcomed a group of adventures into her cave when a storm hit but told them to not go into her room or the ritual chamber. Discovering her a practitioner of magic when she refused their gifts of wine laced with iron -as is customary- they attacked her. She felt to the ritual chamber begging her ancestors to allow her to pass into the magic realm only for the adventures to smash the mirror to prevent her from summoning demons. This cursed her and turned the adventures to Jade.
-### [[FarField]] village: Roleplay challenge
+### [[Farfield]] village: Roleplay challenge
 *Its raining.* *Metal pikes litter the outskirts of the village.* *The streets are empty most people would be working at this hour you suppose. A person sees you coming and quickly goes inside.* 'If you knew better you would stay out of the woods, just ask the lumberjacks by the sawmill.'
 
 - Rumors of talking stone. “The stone is remembering things it shouldn’t.”
@@ -18,7 +18,7 @@ People have been going missing in the woods, a search party found the statue of 
 	- The hunter watched her companion turn to stone as they were hunting near the cursed cave. "The symbols around the cave show that its a cursed place."
 	- The hunter doesn't use her right hand which is gloved while her left hand is ungloved. This is because she was attacked by the gorgon and barely survived.  
 	- "If you find out what happened to my companion I will reward you with the hunters guild crest, it will allow you to legally hunt and sell game"
-- The blacksmiths daughter, Janna, will stalk the PCs through the town when she is caught she will beg the PCs leave, 
+- The blacksmiths daughter, Janna Korval', will stalk the PCs through the town when she is caught she will beg the PCs leave, 
 	- "All this talk of the curses has increased the demand of my farther work. Please leave well enough alone and go back to the bigger towns where you will find better paying work."
 - Merchant selling crafted jade amulets to ward off evil. He made it from a statue of jade he found in the forest. He cut up the statue incase anyone accused him of stealing.
 - [[Tavern]]
