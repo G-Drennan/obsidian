@@ -1,0 +1,1 @@
+Founders of [[Prywrd's Custodians - Keepers & Seekers]], they form small communities that travel from shrine to shrine holding onto their fading culture. City elves have forsaken this life and moved on to modernity.

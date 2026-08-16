@@ -1,0 +1,1 @@
+War machines created by [[The Empire]] capable of outlasting and out maneuverings an army in a forced march. Recently a revolution of the clanks started in the capital of the empire, Auxiliaries in the valley are considered deserters by the imperials and betrayers of the cause by revolutionaries. 

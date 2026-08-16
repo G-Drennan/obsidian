@@ -1,0 +1,1 @@
+Seafaring nomads ever since their island home was destroyed by a volcano thousands of years ago, Dwarves are superstitious of land convinced that it lies about its stability, at least the ocean you can tell when it changes. 

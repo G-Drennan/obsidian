@@ -1,0 +1,1 @@
+The kingdom ruled by the [[Drakona]]. This kingdom ridged society with a strict hierarchy, before the empire came into conflict with them they were rumored about by dwarf sailors who traded with them.   

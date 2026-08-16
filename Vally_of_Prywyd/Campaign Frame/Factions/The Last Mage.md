@@ -1,0 +1,3 @@
+## Plan
+- To restore the valley and free it from empire rule the Last Mage is trying to make contact with a far off kingdom to organise a war to wear down the empire. 
+- Their will seek to re-open the magic realm and restore the valley to the power it once had. To do this they must team up with the only person who still has access to magic not hindered by the closing of the magic realm, [[The Lich]]. 
