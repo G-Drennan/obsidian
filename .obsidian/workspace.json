@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a112a06cc3c539d9",
+            "id": "ddd86b4c41c5ae1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vally_of_Prywyd/Quests/Intro adventure - Gorgon of Farfield.md",
+                "file": "Vally_of_Prywyd/Campaign Frame/Factions/Prywrd's Custodian - Keepers & Seekers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro adventure - Gorgon of Farfield"
+              "title": "Prywrd's Custodian - Keepers & Seekers"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,8 +173,18 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "14eeaba44e3f0adc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           }
         ]
@@ -184,23 +196,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "bases:Create new base": false
     }
   },
-  "active": "a112a06cc3c539d9",
+  "active": "ddd86b4c41c5ae1e",
   "lastOpenFiles": [
     "Vally_of_Prywyd/Campaign Frame/Frame.md",
-    "Untitled.base",
-    "Untitled.canvas",
-    "Untitled 2.base",
+    "Vally_of_Prywyd/Campaign Frame/Factions/Prywrd's Custodian - Keepers & Seekers.md",
+    "Vally_of_Prywyd/Campaign Frame/Factions/Empire.md",
+    "Vally_of_Prywyd/Quests/Session Zero Encounter.md",
+    "Vally_of_Prywyd/Campaign Frame/Factions",
+    "Vally_of_Prywyd/Quests/Intro adventure - Gorgon of Farfield.md",
     "Untitled 1.base",
-    "Vally_of_Prywyd/Quests/Intro adventure - Gorgon of Farfield.md"
+    "Untitled.base",
+    "DH-SRD-May202025.pdf",
+    "Vally_of_Prywyd/Resources/Enviroments/Tavern.md",
+    "[[DH-SRD-May202025.pdf.md",
+    "Grogon.md",
+    "Additional-Sheets-Daggerheart-May212025.pdf",
+    "Additional-Sheets-Daggerheart-May212025.pdf.crdownload",
+    "DH-SRD-May202025.pdf.crdownload",
+    "Vally_of_Prywyd/Resources/NPCs/Lord Theodore Hardwyn.md",
+    "Vally_of_Prywyd/Resources/NPCs",
+    "Vally_of_Prywyd/Campaign Frame/Ideas.md",
+    "Untitled.canvas",
+    "Untitled 2.base"
   ]
 }
