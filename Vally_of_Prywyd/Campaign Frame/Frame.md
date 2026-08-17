@@ -22,6 +22,9 @@ Humans and other cultures move into the land, now welcome by the remaining elves
 The war between [[The Empire]] and the unprepared Valley awoke [[The Last Mage]], as they travel the valley conquered by the empire they see only the faces of the old mage class suppressing and abusing the population for their own profit. What's worse is that the metal that was once the last mage's people savior is now its oppressor, people who show signs of magic are now chained to control them. Distraught the last mage watched on in horror, taking their time with planning how to restore the valley.
 ## Themes
 - **Campaign question:** what is the importance of the past? How can you accept the past? What is the cost of forgiveness? Should traditions be upheld or challenged to change? 
+- Accessing raw magic is dangerous. Accessing magic via an intermediary e.g music, nature or a third party, is safer. 
+	- [[The Last Mage]] used metal to limit the amount of power that could be accessed this way and closed the most direct ways of accessing it safely and at powerful levels sealing the magic realm. This seal has been weakening but not fast enough for the last mage.
+	- Magic that's cast without the limitation of metal can warp the user and have unexpected outcomes.  
 ### Ancestry
 - [[Auxiliary]] (Clank)
 - [[Humans]]
@@ -37,4 +40,4 @@ The war between [[The Empire]] and the unprepared Valley awoke [[The Last Mage]]
 - Warlocks (Wizards): Make deals with spirits they contact in places where the veil is thin, this connection often leaves the warlocks appearance warped as an effect of the magic. They are often used by the imperials to give a bad name to spell casters. Warlocks react violently to metal, those who want to live in modernity must wrap themselves and hide marks that signify them as warlocks. 
 - Seraph: Commonly imperial aligned holy crusaders or members of the secret sect that try to recover lost knowledge of the magic of the valley. 
 - Ranger beast master: Bond spirits from the veil to beast to control them, or so rumours say.
-- Bards: an ancient art form recovered by the secret sect that try to recover lost knowledge of the magic of the valley. They use music to manipulate the arcane realm. \
+- Bards: an ancient art form recovered by the secret sect that try to recover lost knowledge of the magic of the valley. They use music to manipulate the arcane realm. 
