@@ -10,8 +10,10 @@ People have been going missing in the woods, a search party found the statue of 
 - Homes with metal tokens and chains decorating the outside.
 - Village keeps the events happening in the wood secret as to avoid people believing the village is cursed. "No one would buy grain from a cursed village or lumber from a cursed forest."
 - **[[Travelling Merchant - Thalia De'Tromper]]:**  selling crafted jade amulets to ward off evil. He made it from a statue of jade he found in the forest. He cut up the statue incase anyone accused him of stealing.
-- **Farmers** have stopped working the fields, only half the crop has been harvested.
-	- "The forest is to close to the field, farmers who strayed too far haven't returned"
+- **Farmers** have stopped working the fields, only half the crop has been harvested. They are waiting on the forest priest to visit and bless the harvest, old rituals still old true in remote villages. 
+	- "The farmers who went to fetch the priest haven't returned."
+	- Crops near the edge of the forest have gained  a blight that dusts them with a jade like particle. 
+	- Farmers don't want empire emphasises to know they still follow the old ways.
 - **Lumberjack** wont go near the forest. 
 	- "Don was turned to stone I tell you, Prob the work of some foal witch."
 - 
@@ -35,6 +37,9 @@ People have been going missing in the woods, a search party found the statue of 
 - The gutter that lines this chamber is clogged and water from the rain outside leads down further into the cave. 
 - There is a secret door that hides the entrance to the Priest living chambers. The chamber is hinted at by the presence of a gutter by the door to prevent the cave from flooding.
 	- A homely warm room furnished with hand crafted wooden furniture, a well stocked panty, a desk and small bookshelf, and a hay bed. An ivory amulet of the [[Prywrd's Custodians - Keepers & Seekers|Custodians]] can be found in a draw. 
+	- *Idol of praying:* An opal and darkwood relic depicting a god that was worshipped in the valley before the empires conquest of the valley. 
+		- On touch the idol deafens the holder for 10min after they let go. 
+		- 'Just as magic can enhance the scenes it can take them away.'
 ### Setback/Twist
 *The chamber is full of jade statues and discarded camping supplies. A beardly noticeable whisper almost as soft as the wind emanates in the space. To the side of chamber space is a spring sounded by large stones to collect the water. If someone lived here it was for much longer than the camp that's set up in the chamber.*
 
@@ -45,10 +50,15 @@ People have been going missing in the woods, a search party found the statue of 
 
 **Features:**
 - **Whispers of the Damned** — _Spend a Fear._ A character rolls a d6; if the result is under their Hope, they lose 1 Hope and gain 1 Stress as the statues murmur. _“A voice you shouldn’t recognize leans close and tells you something you wish you hadn’t heard.”_ _What did you hear that caused you stress?_
+	- Mind reading Spiders spin glowing silk that reflects the events that unfolded in the cave. 
+		- Ask a player to make an int roll, lowest roll with fear has a secret thought revealed.
 - **Darkness** — Torchlight is required to see; each torch lasts **2d12 actions**. A cold wind surges unpredictably through the cavern. _“The wind snuffs the flame for a heartbeat, and the dark presses in like a living thing.”_
 - **Flood** — _Costs Fear._ Heavy rain pours through blocked gutters of debris and abandoned gear. The chamber floods in **2d12 actions**. _“Water rises around your ankles, carrying the smell of old stone and forgotten travelers.”_
 ### Climax
 *The room is lush with vegetation and moister. Jade chunks litter the floor. At the back of the space is an alter with a shattered mirror behind it, the image within it missing. *
+- **Pit trap** before the room, 10ft deep. floor before the secret door to the main chamber is covered in foliage that breaks under the PC weight. 
+	- At bottom is a moss, this moss is carnivorous and normally traps small insects but this moss has been magically enhanced to trap creatures proportional to its size. 1 stress for each failed attempt to leave. 
+		- Moss is weak to fire. 
 - Fight the gorgon who is trying to repair a broken mirror that doesn't reflect images, only a turning mist and shifting shadows.  
 - When a player is turned to Jade ask: '**What part of your identity others have misjudged because of your appearance ?**'
 - Light will blind the gorgon. 

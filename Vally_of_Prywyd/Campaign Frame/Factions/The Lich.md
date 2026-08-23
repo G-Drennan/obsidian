@@ -2,6 +2,8 @@ The metal curse cast by [[The Last Mage]] was originally designed by the lith bu
 
 The lich soul is sealed in the magic realm, he defeated the mage class that fled into it and corrupted their most powerful mages. He now wants to claim back his body once he is free of the magic realm.
 
+Did liches originate from the magic realm? What are they? Embodiments of magic that gained sentience. 
+
 ## Minions
 - **Powerful mages** from the ancient mage class now **corrupted** by his will, he acknowledges their **hubris** and power which they didn't gain themselves unlike their ancestors that imprisoned him. He takes great delight in **torturing** them for their ancestors transgressions.  
 - **Monsters** what seep out of the magic real as a expression of his magic and influence. 

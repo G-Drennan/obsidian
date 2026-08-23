@@ -23,6 +23,12 @@ Maintains a total of 2 trained guards from the capital.
 - Brig: A young brash woman who is convinced she was sent out to this village for punishment after failing to raid a thief guild hideout. In actuality her higher ups sent her out here to learn from the veteran.
 In the mornings they offer training to the population of Farfield, boys older than 14 are required to take militias training so they can defend the village. 
 
+**Local problems**
+- The guards often collect items of the old religion from around town.
+	- Brig wants to report the people who still worship the old religion as heritcs.
+	- Ferdinand says reporting them will only displease [[Lord Theodore Hardwyn]] who relies on the village as an income source. 
+		- Ferdinand is often trying to help the population hide their religion better. But he population is relaxed on this due to the limited reach of the empire. 
+
 ### Imperial Temple
 
 

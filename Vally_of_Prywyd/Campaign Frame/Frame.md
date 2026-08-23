@@ -13,13 +13,23 @@ A rebel group lead by [[The Last Mage]] over threw the ruling mages by closing t
 
 The mage class was exiled to the magical realm, and the remaining elves stayed behind to watch over the physical entrances to the magical realm. Building a culture around their protection despite losing why they need to be protected over time.
 
-### Period of quiet
-Humans and other cultures move into the land, now welcome by the remaining elves to rebuild the valley. The valley became groups of farming villages who valued community and mutual aid, the remains of their governing structure still persist in the valleys guild for farmers, militia, blacksmiths, ect. 
+**Legends from this time** 
+- Many of the mage Houses -each having its own guarded specialist magic-  from this period became remembered as gods -their domain reflecting their speciality. The Houses are personified by the mythic story of how the original group of mages -now named by the mage house that claimed to be descendent from them- defeated the lich. 
+- The legacy oft he last mage is consider one of societal collapse caused by a rebellious god
 
+### Period of quiet
+Humans and other cultures move into the land, now welcome by the remaining elves to rebuild the valley. The valley became groups of farming villages who valued community and mutual aid, the remains of their governing structure still persist in the valleys guild for farmers, militia, blacksmiths, ect. These communities respected the forest mages, now part of the [[Prywrd's Custodians - Keepers & Seekers| Custodian Keepers]], who would bless crops, adjudicate official agreements including marriages and feuds, and provided aid to the sick. 
 [[The last mage]] seeing their was no more use for them slept. 
 
+**Legends from this time** 
+- During a bad plague Communities that were highly infected were burnt down by the keepers, People now talk of sickness -particularly inflammation symptoms- as a consuming flame and consider it unsafe for sick people to be near flammable objects.
+	- This time also cemented burning the dead the the culture of the valley. 
 ### Modernity
 The war between [[The Empire]] and the unprepared Valley awoke [[The Last Mage]], as they travel the valley conquered by the empire they see only the faces of the old mage class suppressing and abusing the population for their own profit. What's worse is that the metal that was once the last mage's people savior is now its oppressor, people who show signs of magic are now chained to control them. Distraught the last mage watched on in horror, taking their time with planning how to restore the valley.
+
+**Beliefs imported from the empire** 
+- Metal charms prevent magic from being used on you. 
+- Bodies destroyed after death can not persist in the after life. 
 ## Themes
 - **Campaign question:** what is the importance of the past? How can you accept the past? What is the cost of forgiveness? Should traditions be upheld or challenged to change? 
 - Accessing raw magic is dangerous. Accessing magic via an intermediary e.g music, nature or a third party, is safer. 

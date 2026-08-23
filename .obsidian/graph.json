@@ -6,7 +6,50 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Vally_of_Prywyd/Quests  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Vally_of_Prywyd/Campaign Frame/Locations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Vally_of_Prywyd/Resources/Enviroments  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Vally_of_Prywyd/Campaign Frame/Ancestry\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"Vally_of_Prywyd/Campaign Frame/Factions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Vally_of_Prywyd/Resources/NPCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9999999999999984,
-  "close": false
+  "scale": 0.7257065166141347,
+  "close": true
 }
