@@ -14,14 +14,20 @@ People have been going missing in the woods, a search party found the statue of 
 	- "The farmers who went to fetch the priest haven't returned."
 	- Crops near the edge of the forest have gained  a blight that dusts them with a jade like particle. 
 	- Farmers don't want empire emphasises to know they still follow the old ways.
-- **Lumberjack** wont go near the forest. 
+- **[[FarField|Lumberjack]]** wont go near the forest. 
 	- "Don was turned to stone I tell you, Prob the work of some foal witch."
-- 
+- **[[FarField|The messengers Trade]]**
+	- Olga, the stoic shop owner, has movements that are short and slow - that she will often grimace during.
+		- After being convinced Olga will mention that her arthritis from her prolong use of prosthetic is paining her. The Priest in the forest hasn't visited her in a few weeks. 
 - The **[[Farfield|blacksmith's]]** daughter, Janna Korval', will stalk the PCs through the town 
 	- when she is caught she will beg the PCs leave, *"All this talk of the curses has increased the demand of my farther work. Please leave well enough alone and go back to the bigger towns where you will find better paying work."*
 - [[Tavern]]
 	- A hunters who has been known for their attendance of the inn every night has not visited in a while, the bar tender will ask the players check in them. 
 	- Bar fight over the blacksmiths prices which have increased as of late due to their work being occupied by making pikes to ward away the cursed forest. This is the last time the blacksmith is drinking in the tavern.  
+- **Imperial Temple**
+	- The temples head priest was turned to jade stone, the apprentice priest is trying to hid it by stating the priest is on a work trip to the empire after he was summoned by the [[The Empire||herald]]. This story is very unlikely.
+	- The apprentice will ask player to deliver a letter to the capital of the valley to summon the [[The Empire|inquisition]] to investigate the witchcraft in the forest. "I cant trust anyone in this village or any of the messengers that visit ti with this task it is of the utmost importance."  
+		- The inquisition will not investigate based on the story of an apprentice priest. They are more likely to investigate the temple before the forest. They send one delegate.
 - **Hunters lodge:** She is sulking in the hunters guild which is empty now the forest is believed cursed
 	- The hunter watched her companion turn to stone as they were hunting near the cursed cave. "The symbols around the cave show that its a cursed place."
 	- The hunter doesn't use her right hand which is gloved while her left hand is ungloved. This is because she was attacked by the gorgon and barely survived.  

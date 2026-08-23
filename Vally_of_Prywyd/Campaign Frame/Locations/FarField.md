@@ -1,8 +1,17 @@
 - Farming and logging village.
 ## Points of interest
-### Logger Mill
+### Saw Mill
+The loggers mill is four buildings, the mill that cuts the logs, the communal space, the lodgings., and the boat house All these buildings are the oldest in the village but are regularly maintained by the lumberjacks with repairs of varying carpentry skill. 
+- **Communal space:** where the lumberjacks cook, eat and do business. 
+- **Lodgings:** Where the lumberjacks that come here for seasonal work sleep.
+- **Saw Mill:** operated all day to cut logs down into smaller parts to be transported up river.
+- **Boat House:** No boats are docked in the boathouse until the [[Intro adventure - Gorgon of Farfield|curse]] in the forest is lifted. 
 
-
+ - **Orion Oak - Lead Lumberjack:** A strict and ill tempered man hailing from the empire 
+	 - He left the empire after his lumber business there failed and he was humiliated. He will not let that happen again, even due to a [[Intro adventure - Gorgon of Farfield|curse]].  
+	 - He is the son of an old favoured servant to [[Lord Theodore Hardwyn]]. 
+	 - He will be found complaining to his valley workers who are more superstitious than him, "Don has gone for a wonder, when he is back he is as good as fired from my mill."
+	   "People don't turn to stone, the place where you showed me his statue would be is not there. He is just lazy." 
 ### Blacksmith
 The Korval' family business, a family of 8 most working age bar the youngest who is tasked with collecting water for the forge. 
 - Janna Korval: A smart young girl with an eye for business, She helps her mother with Keeping the smithy inventory and accounting. 
@@ -14,8 +23,12 @@ The Korval' family business, a family of 8 most working age bar the youngest who
 - Tress Korval: The face of the smithy, she ensures that smithy runs smoothly.
 	- "Weapons? We don't receive orders for those often but we can do that."
 
-### General store
-
+### The Messengers Trade - General store
+- The shop sign shows an image of a young woman and a donkey.
+- Inside a vast display of prosthetic hang on the walls.
+- **Olga Dunlow - owner:** The stoic shop owner. In her youth she worked as a messenger and scout for the valley during the empires conquest. After an injury severed her left leg she still insisted to work as a messenger, crafting an array of wooden prosthetic to aid her. 
+	- Olga movements are short and she will often grimace during.
+	- After being convinced Olga will mention that her arthritis from her prolong use of prosthetic is paining her. The Priest in the forest hasn't visited her in a few weeks. 
 
 ### Guard keep
 Maintains a total of 2 trained guards from the capital. 
