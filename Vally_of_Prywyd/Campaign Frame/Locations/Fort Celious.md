@@ -1,0 +1,1 @@
+- The first location [[The Empire of Ru'Celious]] conquered. 

@@ -1,0 +1,18 @@
+- Cat amulet protective energy, made of gem stones. 
+	- Cats watch over the people of crosswyd. Dead  druid who fostered this behavior in the cats, Empire see the cats as bad but can't remove them for cultural reasons.
+	- Story behind the druids legend. 
+- Knew [[Vesper]] as a teens, Vesper was passing thru, a vagabond. 
+	- Was her first meeting with another Cursed. 
+	- Stole from a well off widowed old man. 
+		- Sweet when he isn't angry. 
+		- He loved company in his widowed years. 
+	- [[Vaelen]] wanted the hat, tested [[Vesper]]. 
+		- He thru the hat away. 
+	- Village didn't trust Amanita anymore. She was forced into indentured servitude to the village and the old man.  
+- Has parents, but brings them shame on her actions. Proved she was no different from other Cursed. 
+- Asked vesper to protect her. 
+- Worships Krasa
+	- God of beauty and Danger/Fear
+	- Symbol Rose Fail. 
+	- After being accused of stealing she turned to religion as a coping strategy. 
+	- Local god of crosswyd. 

@@ -1,0 +1,7 @@
+- Her spirit animal companion was guarding a Ancient domain, ||in truth the spirit was fleeing an increase in Aethel activity||
+- Interested in [[The Ruins of Aethelguard]]. This was once the hill of abandonment where orphans are normal left or found. After being uncovered by a bombing campaign by the empire to find brass veins in the mountains, [[Prywrd's Custodians - Keepers & Seekers]] have turned it into a major excavation and historical site. 
+- **[[Lord Sorel of D’Que]]** sees Fern and her spirit as a pair of exotic trophies. 
+	- He’s got trackers trailing her so he can cage her for his private menagerie.
+- **[[Barney]]** is a gentle, half-deaf herbalist who runs a dusty apothecary shop on the ragged border between the Valley and the Empire. Helped Fern when she was a child, taught her about foraging. He lives on the outskirts of a boarder town.
+- **[[Vaelen]]** A criminal -smuggler and fence- in southern Prywyd. Only cares for coin and artifacts.
+	- He helps fern in exchange for favours, sometimes its rare game other times its trinkets or more.

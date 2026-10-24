@@ -1,0 +1,1 @@
+- Hords power and artifacts

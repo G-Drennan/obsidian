@@ -1,0 +1,12 @@
+A small time bandit group in southern Prywyd Valley. 
+- Killed empire who built a bridge near [[Navis Dawn]] and replaced them as tool collectors
+- **Leader** is a gold [[Drakona]] Known as the **golden snake**. He has two pet drakes, and petition for putting people in debt, and other schemes for money. He loves torture. 
+	- Necromancy given from Lich. 
+		- Broken Aethel mirror. 
+			- Brother is dead, the golden snake killed him over the mirror but remembers it as a gift from his brother.
+				- His brother is the demon inside the mirror, waiting to get his revenge. 
+		- They owe 20 gold to the golden snake. 
+- They base at a cave at the point the river meets the mountain.
+- Custodian who left the order - Karlea. 
+- Debtors Freed- **Cantrop**, **Anred** - daughter Evandra. 
+- **Kline** - Failed highway robber now disabled after failing the golden snake too many times. 

@@ -1,0 +1,2 @@
+- A dungeon where the monster as illusions but are real enough to do damage. Run by a mage
+	- There are many factions into eh dungeon that can be pitted against eachother

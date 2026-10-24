@@ -1,0 +1,1 @@
+- Merchant State - had close ties to the valley of pyrwyd before the war often going out of their way for goods from the valley such as brass. 

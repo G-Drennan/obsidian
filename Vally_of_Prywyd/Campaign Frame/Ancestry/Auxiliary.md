@@ -1,2 +1,3 @@
-War machines created by [[The Empire]] capable of outlasting and out maneuverings an army in a forced march. Recently a revolution of the Aux has started in the capital of the empire. 
+War machines created by [[The Empire of Ru'Celious]] capable of outlasting and out maneuverings an army in a forced march. Recently a revolution of the Aux has started in the capital of the empire. 
 - Auxiliaries in the valley are considered deserters by the imperials and betrayers of the cause by revolutionaries. 
+- The aux revolution is preventing the continuation of the rail road into [[The Kingdom of Dol'vyna]], this deal was made after a trade agreement was signed by the tundra royalty

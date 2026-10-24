@@ -1,0 +1,3 @@
+- 1 day, 1 hex is 20 miles. 2 hexs by horse, 1 by foot in a day.
+- Each hex has 18 hexes inside each 4 miles across, 6 of which have locations of interest, 1 has a point of elevation. 
+- 

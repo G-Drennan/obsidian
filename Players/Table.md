@@ -1,0 +1,8 @@
+- Vik: Gwen - Brawler
+- Adella: Shaza - Seraph
+	- mining town valley mountain Farther missing.
+- Chistine: Fern Ranger
+- Emellia: Vine - witch
+- Stacy: Orna - Gardian
+	- hippy, makes herbal mixes
+	- gets pickpoketed. No rent, lives outside. 

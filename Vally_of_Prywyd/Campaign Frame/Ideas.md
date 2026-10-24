@@ -7,6 +7,5 @@
 - Spell scrolls are contraband. Often created by infernal. 
 - Metal (pure and metal composites) in high connection interferes with mages connection to the magic realm. 
 	- This forces mages to be only performed in remote locations, and mages to be hermits that prefer nature over civilisation. Additionally this is why magic use has died out in town centres.  
-- The empire values invention over magic. They consider mages dangerous and impure.
-	- Perhaps they had their own lich that ruled over their kingdom who was overthrown when magics weakness to metal was created. 
-		- Since the Lich from the valley wasn't around when the curse started his connection to the magic realm wasn't disrupted. And his control over magic and his connection to the magic realm are stonger than the curse.
+- 
+- 

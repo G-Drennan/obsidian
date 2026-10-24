@@ -1,0 +1,3 @@
+- [[Navis Dawn]]
+- Childhood friend went missing, village/parent blamed Cora
+- Met Angus a keeper who researches mirrors

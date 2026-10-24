@@ -1,0 +1,3 @@
+- Silk glows in dark to attract insects
+- Spiders can read minds and draw images of creatures thoughts in their web desigsn
+- Glowing spider silk is used in a potion of Night vision. 

@@ -1,0 +1,10 @@
+- Small rural village of unimportantance that still worships the old gods
+- The god of the village if a god of Campfire and music known as **Rassvet**. 
+	- They continually play music for her every hour to keep a flame in her life size statue burning.
+- Export woodworking, expert hand crafted carpentry goods.
+- A story about a pool blessed by a old god that heals wounds but deepens despair. 
+- The village is situated on the side of a mountain. 
+- [[River snakes Bandits]] near Navis dawn.
+- Moths Parents separated. 
+- Keeper - Stanwart 
+	- 

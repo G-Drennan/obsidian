@@ -1,0 +1,4 @@
+- Sells herbs and oils imported from the empire
+- Had [[Orna]] working for him
+- Is an infernal with a fauns appearance. 
+- 

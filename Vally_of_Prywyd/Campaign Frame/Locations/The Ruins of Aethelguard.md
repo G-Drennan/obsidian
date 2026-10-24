@@ -1,0 +1,6 @@
+- Found under the hill of abandonment deep in the mountains after a bombing event from [[The Empire of Ru'Celious]] in an attempt to uncover brass veins.  [[Prywrd's Custodians - Keepers & Seekers]] were successful in stopping the bombing action proposing lost knowledge could be found there that could benifit the empire.
+- The city is known for its mythical library that was said to have been lost when the emprie fell.
+	- It is protected by wards and traps. over time it sunk into the ground as the wards increased the gravity on its stones to hide and protect the information it holds.
+	- A [[The Scaled Lore Keeper  - Dragon|dragon]] took up residence here, its egg it hatched from was once held under a ward to prevent it from hatching. Over time the ward wore off due to the weakened connection to the magic realm. 
+- Uncovered ruin was the capital for the ancient civilization. A mural shows an infernal tyrant and elves bowing to him. Another mural presents a group of mages defeating the infernal and a third with them being thanked by the population and being crowned.
+	- [[Cora]] dreams connect to bbeg, have the image in her dreams appear in a mural in the uncovered ancient city. 

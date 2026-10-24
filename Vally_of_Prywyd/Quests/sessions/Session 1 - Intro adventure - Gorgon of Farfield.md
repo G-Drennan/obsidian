@@ -3,13 +3,13 @@ The players start in the small town of [[Farfield]],  a small remote farming vil
 People have been going missing in the woods, a search party found the statue of a young Lumberjack known by the village. The village has since smelted down their available metal to create pikes to surround the village in to protect it. 
 *Have a players relation in the village be missing.*
 ## Adventure
-**Background:** An elven priest welcomed a group of adventures into her cave when a storm hit but told them to not go into her room or the ritual chamber. Discovering her a practitioner of magic when she refused their gifts of wine laced with iron -as is customary- they attacked her. She felt to the ritual chamber begging her ancestors to allow her to pass into the magic realm only for the adventures to smash the mirror to prevent her from summoning demons. This cursed her and turned the adventures to Jade.
+**Background:** An elven priest welcomed a group of adventures into her cave when a storm hit but told them to not go into her room or the ritual chamber. Discovering her a practitioner of magic when she refused their gifts of wine laced with iron -as is customary- they attacked her. She fled to the ritual chamber begging her ancestors to allow her to pass into the [[Aethelgard - The lost Realm|Aethel]] Realm only for the adventures to smash the mirror to prevent her from summoning demons. This cursed her and turned the adventures to Jade.
 ### [[Farfield]] village: Roleplay challenge
 *Its raining.* *Metal pikes litter the outskirts of the village.* *The streets are empty most people would be working at this hour you suppose. A person sees you coming and quickly goes inside.* 'If you knew better you would stay out of the woods, just ask the lumberjacks by the sawmill.'
 
 - Homes with metal tokens and chains decorating the outside.
 - Village keeps the events happening in the wood secret as to avoid people believing the village is cursed. "No one would buy grain from a cursed village or lumber from a cursed forest."
-- **[[Travelling Merchant - Thalia De'Tromper]]:**  selling crafted jade amulets to ward off evil. He made it from a statue of jade he found in the forest. He cut up the statue incase anyone accused him of stealing.
+- **[[Thalia De'Tromper - Travelling Merchant.]]:**  selling crafted jade amulets to ward off evil. He made it from a statue of jade he found in the forest. He cut up the statue incase anyone accused him of stealing.
 - **Farmers** have stopped working the fields, only half the crop has been harvested. They are waiting on the forest priest to visit and bless the harvest, old rituals still old true in remote villages. 
 	- "The farmers who went to fetch the priest haven't returned."
 	- Crops near the edge of the forest have gained  a blight that dusts them with a jade like particle. 
@@ -25,9 +25,10 @@ People have been going missing in the woods, a search party found the statue of 
 	- A hunters who has been known for their attendance of the inn every night has not visited in a while, the bar tender will ask the players check in them. 
 	- Bar fight over the blacksmiths prices which have increased as of late due to their work being occupied by making pikes to ward away the cursed forest. This is the last time the blacksmith is drinking in the tavern.  
 - **Imperial Temple**
-	- The temples head priest was turned to jade stone, the apprentice priest is trying to hid it by stating the priest is on a work trip to the empire after he was summoned by the [[The Empire||herald]]. This story is very unlikely.
-	- The apprentice will ask player to deliver a letter to the capital of the valley to summon the [[The Empire|inquisition]] to investigate the witchcraft in the forest. "I cant trust anyone in this village or any of the messengers that visit ti with this task it is of the utmost importance."  
-		- The inquisition will not investigate based on the story of an apprentice priest. They are more likely to investigate the temple before the forest. They send one delegate.
+	- The temples head priest was turned to jade stone, the apprentice priest is trying to hid it by stating the priest is on a work trip to the empire after he was summoned by the [[The Empire of Ru'Celious||herald]]. This story is very unlikely.
+	- The apprentice will ask player to deliver a letter to the capital of the valley to summon the [[The Empire of Ru'Celious|Veritiors]] to investigate the witchcraft in the forest. "I cant trust anyone in this village or any of the messengers that visit it with this task it is of the utmost importance."  
+		- The Veritiors will not investigate based on the story of an apprentice priest. They are more likely to investigate the temple before the forest. They send one delegate to access if this is worth the time of the Veritiors. 
+		- The apprentice is Theo's Nephew - Nep'tarious. The players are the first to break the news to him is farther is dead, “Did Lord Hardwyn send you? How is my farther doing? He normally is too busy to be interested in this holding.”
 - **Hunters lodge:** She is sulking in the hunters guild which is empty now the forest is believed cursed
 	- The hunter watched her companion turn to stone as they were hunting near the cursed cave. "The symbols around the cave show that its a cursed place."
 	- The hunter doesn't use her right hand which is gloved while her left hand is ungloved. This is because she was attacked by the gorgon and barely survived.  
@@ -52,11 +53,11 @@ People have been going missing in the woods, a search party found the statue of 
 - The whispers hinting at how they were attacked by the gorgon, each time they were people who seeked out the gorgon to defeat the evil. 
 - One statue is a small halfling in adventuring gear, they warned the priest what their adventuring party was accusing her of the two rushed into the ritual chambers to see the mirror smashed and the priest turn into a gorgon. The last moments where the halfling watching her smash their companions jades statues as they turned to jade themselves wondering if they would receive the same fate. 
 #### Gorgon [[Cave]] environment
-**Adversaries:** [[DH-SRD-May202025.pdf#page=87&selection=0,0,0,6|Gorgon]],  Statues ([[DH-SRD-May202025.pdf#page=80&selection=192,0,192,9|Sellsword]]). 
+**Adversaries:** [[DH-SRD-May202025.pdf#page=87&selection=0,0,0,6|Gorgon]],  Statues ([[DH-SRD-May202025.pdf#page=80&selection=192,0,192,9|Sellsword]]).  
 
 **Features:**
-- **Whispers of the Damned** — _Spend a Fear._ A character rolls a d6; if the result is under their Hope, they lose 1 Hope and gain 1 Stress as the statues murmur. _“A voice you shouldn’t recognize leans close and tells you something you wish you hadn’t heard.”_ _What did you hear that caused you stress?_
-	- Mind reading Spiders spin glowing silk that reflects the events that unfolded in the cave. 
+- **Whispers of the Damned** — _Spend a Fear._ A character rolls a d6; if the result is under their Hope, they lose 1 Hope and gain 1 Stress as the statues murmur. _“A voice you shouldn’t recognise whispers in your mind and tells you something you wish you hadn’t heard.”_ _What did you hear that caused you stress?_ 
+	- [[Glow silk spider]] spin glowing silk that reflects the events that unfolded in the cave. 
 		- Ask a player to make an int roll, lowest roll with fear has a secret thought revealed.
 - **Darkness** — Torchlight is required to see; each torch lasts **2d12 actions**. A cold wind surges unpredictably through the cavern. _“The wind snuffs the flame for a heartbeat, and the dark presses in like a living thing.”_
 - **Flood** — _Costs Fear._ Heavy rain pours through blocked gutters of debris and abandoned gear. The chamber floods in **2d12 actions**. _“Water rises around your ankles, carrying the smell of old stone and forgotten travelers.”_
