@@ -96,6 +96,8 @@ Near the entry hall from the surface is the barrics, they are haphazard with emp
 - **The Main hall** - Two large bronze statues adorned in countless wards, their eyes glow as the PC approch.
 - **Parlour** - nice chairs, small book shelves and coffe tables, private rooms soem with meeting spaces others with beds. One has a crystal with a recording from a woman who was the mistress of a magister. 
 	- "Back home there are rumblings of this Ashen Raven figure... my family is worried about me and my proximity to Magister Rassvet Hel'andis. But she brought me to this lovely bunker... any revolution of the Ashen raven surly wont reach us here. We have been making the most beautiful music together, her fingers move as if her ancestors guide them." 
+- **Library** - tall bookshelves, books with wards.
+- **Vault** - puzzles and treasure. 
 - **Mirror room** Deepest room is full of mirrors, this is where Angus is. He and his college an expert on wards has been controlled by a demon now ruler of the dungeon.
 	- Other colleges are held prisoner. 
 	- An item the monster has controls the allies, taking it away or destroying it will free them.
