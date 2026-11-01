@@ -47,6 +47,7 @@ Work for  [[Lord Sorel of D’Que]] looking for the scholar
 	- "Room B9 - filled with heat from an open lava source. The wards in this room no longer work it seems. their shape fits into the wards used for heating food found in room A12. It appears they might have been used to cool the room."
 	- "Room B14 - The plants in this room have cleared died having not been tendered to for years yet they haven't rotted. This is why the keepers work to re-learn the art of the wards. the ability to keep food for longer would aid sea farers and those who live in remote places."
 	- "Room A12 - A kitchen, wards on benches with char markings indicate they were used for heating. These wooden boxes in the pantry have wards on them but the degradation of the wood over time broke their connection to the Aetherial realm"
+	- Working wards have bronze in them. Bronze is required to make wards work. But not any bronze, using normal forged bronze wont work, only the mined bronze from the peculiar veins found in the mountains bordering the valley. This is similar to an observation in the early days of Aux manufacturing when standard bronze used to make Auxiliary would not enable magic to be infused into it. Some of the wards seem to no longer hold magic, perhaps these were made using standard bronze, this hypothesis needs to be tested, I have collected a sample for now - pouch LM3. If these were made using standard bronze it would redefine how we understand the fall of the aethelguard civilization.  
 ### Entry
 **Impulses** To keep adventures out. 
 **Hazards:** Traps some are deactivated by the keepers, so are self resting or haven't been found yet. 
@@ -76,7 +77,17 @@ Near the entry hall from the surface is the barrics, they are haphazard with emp
 	- One detailing a route to an island noted as home to reclusive people who live underground.
 	- Another Plans to build towers for newly elevated mages along the leylines. One of the leylines crosses over where [[Yindr]] is, this is a grassland area with no mountains. Another leyline crosses over the current location, its geography is similar to now.
 5. **Ball room:** music forced dancing ect, rotten instruments that attack and play disordant music. If the ward on them is found with a DC 14 check they can be disabled easily with a targeted attack - cost hope deals extra dmg. There is a chaderler to hang from 
-6. **Alchemy room** - Poison [[Oozes|Ooze]] with random potion effects for its attacks in a cabinet for potions.
+6. **Long stay rooms** - about 36 decadent rooms each with their own unique doors, some ornately carved, 
+	- Each room has a hidden panic room with a metal coating over iron wood. These heavy doors failed when the magic was cut off by the ashen raven.
+		- Scholar trapped here.
+	- **Shimmering silver door** - seemingly made out of shinning treads, the slight gust of air causes them to emanate a melody.
+		- There is no clear door handle. 
+	- **A wooden door carved into a rose bush** - No obvious door handle but an inscription hidden nearby reads - "The Magister boasts of what flows from ancient veins. Villein bear the same but it does not let them rein. Roses thirst for it. Thorns draw it freely. To pass into Krasa domain, do not name it." 
+		- Room has wards that still function that keep rich clothing intact, and weapons unrusted
+			-**Loot** - Improved brass knuckles. A robe with wards on it that cast illusions, bronze inlay connects the wards. 
+	- This room has a crystal with a recording from a woman who was the mistress of a magister. 
+		- "Back home there are rumblings of this Ashen Raven figure... my family is worried about me and my proximity to Magister Rassvet Hel'andis. But she brought me to this lovely bunker... any revolution of the Ashen raven surly wont reach us here. We have been making the most beautiful music together, her fingers move as if her ancestors guide them." 
+7. **Alchemy room** - Poison [[Oozes|Ooze]] with random potion effects for its attacks in a cabinet for potions.
 	- Potion effect last until washed off. Gained when they roll with fear. 
 		- Antigravity, disadvantage to atk.
 		- Part of body turns to random material but is still usable, or PC gains an animal feature
@@ -94,8 +105,7 @@ Near the entry hall from the surface is the barrics, they are haphazard with emp
 ### Formal Entry Hall
 **Impulses** Big empty spaces, boss battle. 
 - **The Main hall** - Two large bronze statues adorned in countless wards, their eyes glow as the PC approch.
-- **Parlour** - nice chairs, small book shelves and coffe tables, private rooms soem with meeting spaces others with beds. One has a crystal with a recording from a woman who was the mistress of a magister. 
-	- "Back home there are rumblings of this Ashen Raven figure... my family is worried about me and my proximity to Magister Rassvet Hel'andis. But she brought me to this lovely bunker... any revolution of the Ashen raven surly wont reach us here. We have been making the most beautiful music together, her fingers move as if her ancestors guide them." 
+- **Parlour** - nice chairs, small book shelves and coffe tables, private rooms some with meeting spaces others with beds. 
 - **Library** - tall bookshelves, books with wards.
 - **Vault** - puzzles and treasure. 
 - **Mirror room** Deepest room is full of mirrors, this is where Angus is. He and his college an expert on wards has been controlled by a demon now ruler of the dungeon.
