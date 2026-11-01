@@ -37,11 +37,16 @@ Work for  [[Lord Sorel of D’Que]] looking for the scholar
 
 
 ## Dungeon overview
-- Litter pages from the Scholar's note book on creatures in the dungeon. 
-	- Mimics, creatures in the cave
-- Litter pages from Nianca the ward expert
-	- "Room B9 - filled with heat from an open lava source. The wards in this room no longer work it seems. It appears they might have been used to cool the room."
+- Litter pages from the **Scholar**'s note book on creatures in the dungeon. 
+	- Mimics
+	- creatures in the cave
+	- Strange sounds coming from a room with steam emanating from it
+	- A rolling dark fog with inhuman faces in it and the sound of chains, I hid in an alcove hopping they didn't see me. Even if they were heading outside I would not risk to follow. 
+	- Little gremlins that run around collecting random objects, they woke me up this ~~morning... noon... evening?~~ Time has lost all meaning... They stole my spear pens, now I only have the one I am writing with, at least its my favourite. 
+- Litter pages from **Nianca** the ward expert
+	- "Room B9 - filled with heat from an open lava source. The wards in this room no longer work it seems. their shape fits into the wards used for heating food found in room A12. It appears they might have been used to cool the room."
 	- "Room B14 - The plants in this room have cleared died having not been tendered to for years yet they haven't rotted. This is why the keepers work to re-learn the art of the wards. the ability to keep food for longer would aid sea farers and those who live in remote places."
+	- "Room A12 - A kitchen, wards on benches with char markings indicate they were used for heating. These wooden boxes in the pantry have wards on them but the degradation of the wood over time broke their connection to the Aetherial realm"
 ### Entry
 **Impulses** To keep adventures out. 
 **Hazards:** Traps some are deactivated by the keepers, so are self resting or haven't been found yet. 
@@ -51,7 +56,7 @@ Near the entry hall from the surface is the barrics, they are haphazard with emp
 - In the centre is a **training room** with animated armour, a ward in the centre activates them.
 - **Head officer office** - Spell scroll
 - The **washroom** has  a heated pool, now home to a elemental that's very relaxed.
-- **Loot:** - Elundrian Chain Armor - reduces incomming magic dmg by yor armour score.
+- **Loot:** - Elundrian Chain Armor - reduces incomming magic dmg by yor armour score. Put on one of the animated armour. 
 
 ### Cave
 **Impulses** Hazardous Maze, scary monsters, PC are invaders to a monster territory. 
@@ -70,7 +75,7 @@ Near the entry hall from the surface is the barrics, they are haphazard with emp
 4. **Map room** - old trading charts, 
 	- One detailing a route to an island noted as home to reclusive people who live underground.
 	- Another Plans to build towers for newly elevated mages along the leylines. One of the leylines crosses over where [[Yindr]] is, this is a grassland area with no mountains. Another leyline crosses over the current location, its geography is similar to now.
-5. **Ball room:** music forced dancing ect, rotten instruments that attack. 
+5. **Ball room:** music forced dancing ect, rotten instruments that attack and play disordant music. If the ward on them is found with a DC 14 check they can be disabled easily with a targeted attack - cost hope deals extra dmg. There is a chaderler to hang from 
 6. **Alchemy room** - Poison [[Oozes|Ooze]] with random potion effects for its attacks in a cabinet for potions.
 	- Potion effect last until washed off. Gained when they roll with fear. 
 		- Antigravity, disadvantage to atk.
@@ -86,11 +91,15 @@ Near the entry hall from the surface is the barrics, they are haphazard with emp
 		- PC glows, drawing in near by light.
 	- Zephyr's jar - a jar with a ward that captures storms, currently contains a sun shower. 
 
-### Entry Hall
+### Formal Entry Hall
 **Impulses** Big empty spaces, boss battle. 
+- **The Main hall** - Two large bronze statues adorned in countless wards, their eyes glow as the PC approch.
+- **Parlour** - nice chairs, small book shelves and coffe tables, private rooms soem with meeting spaces others with beds. One has a crystal with a recording from a woman who was the mistress of a magister. 
+	- "Back home there are rumblings of this Ashen Raven figure... my family is worried about me and my proximity to Magister Rassvet Hel'andis. But she brought me to this lovely bunker... any revolution of the Ashen raven surly wont reach us here. We have been making the most beautiful music together, her fingers move as if her ancestors guide them." 
 - **Mirror room** Deepest room is full of mirrors, this is where Angus is. He and his college an expert on wards has been controlled by a demon now ruler of the dungeon.
 	- Other colleges are held prisoner. 
 	- An item the monster has controls the allies, taking it away or destroying it will free them.
+- Add in an enrioment/lair actions: Aetherial Nexus point. 
 - A metal Bracelet, Heavy, covered in twin interlocked complex wards, the bracelet decreases the weight of the holder and stores it in the bracelet and the weight can be released back to the user at will. The bracelet is currently empty. 
 	- The bracelet has been corrupted  by lich, 1 in 10 chance of Physically changing the character to reduce or increase their weight. 
 	- In possession of the ward scholar Nianca, they can cast enlarge/reduce 1 per day with it. 
