@@ -47,8 +47,10 @@ Work for  [[Lord Sorel of D’Que]] looking for the scholar
 **Hazards:** Traps some are deactivated by the keepers, so are self resting or haven't been found yet. 
 
 #### Barracks
-- Kitchen, washroom, mess hall, bunk beds
-- Wandering animated armour.
+Near the entry hall from the surface is the barrics, they are haphazard with empty weapon racks and wide open doors. Bottles with half drunken liquor, stone hard half eaten bread, beds left unmade their sheets old and moth eaten.
+- In the centre is a **training room** with animated armour, a ward in the centre activates them.
+- **Head officer office** - Spell scroll
+- The **washroom** has  a heated pool, now home to a elemental that's very relaxed.
 - **Loot:** - Elundrian Chain Armor - reduces incomming magic dmg by yor armour score.
 
 ### Cave
