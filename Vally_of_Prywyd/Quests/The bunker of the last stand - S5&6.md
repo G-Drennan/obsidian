@@ -9,6 +9,11 @@ The rebellion against the mage class drove them to this location intentionally b
 
 Due to the bunker being closed for so long the inside are well maintained, but the growing power of [[the chained lord]] demon now infest the dungeon. 
 
+## Below the dungeon - Mountain base camp.
+- The seekers have set up a camp and are deterring away travellers with no business near the bunker ruins.
+- A group of minors are packing up the lasts of their supplies and tools with the help of the seekers. The foreman of the minors is handing over the lodgings begrudgingly to the seekers, "The empire gave you the right to reclaim this land only temporally,  when the allocated time is up I'm sure lord Hardwyn would want to challenge the claim sighting the wealth this lands minerals could bring to the empire. Its not very often you find a bronze vein this far south."
+
+
 ## Key figures
 ### [[Prywrd's Custodians - Keepers & Seekers |Custodians]] 
 **Reward** 4 bags of gold each from the Seekers for rescuing the scholars. A letter that will allow the PC into the heavy guarded [[The Ruins of Aethelguard|Ruins of Aethelguard]], Deep in the mountains to the north. 
@@ -31,11 +36,13 @@ Work for  [[Lord Sorel of D’Que]] looking for the scholar
 - **Scholar - Pleason Lelone** [[Lord Sorel of D’Que]] when he found about about the newly discovered ruin sent the scholar to find out if the sealed bunker contained unique creatures. He wanted to send one person on this task to ensure the site was worth sending adventures too, but after the scholar disappeared he accepted he would have to absorb the cost. 
 	- Fine scholar garb of the empire,  but it has been torn in places and dirty but the time the scholar has spent in the bunker.  
 	- Carries a vial of darksmoke, potion of stamina, a torn journal.  
-## Below the dungeon - Mountain base camp.
-- The seekers have set up a camp and are deterring away travellers with no business near the bunker ruins.
-- A group of minors are packing up the lasts of their supplies and tools with the help of the seekers. The foreman of the minors is handing over the lodgings begrudgingly to the seekers, "The empire gave you the right to reclaim this land only temporally,  when the allocated time is up I'm sure lord Hardwyn would want to challenge the claim sighting the wealth this lands minerals could bring to the empire. Its not very often you find a bronze vein this far south."
+### Deep Dweller
+- **Minions** - Merfolk
+- Is protecting the dragon that's stuck here to maintain the leylines in the area. 
 
-
+### Chain Lords Avatar
+- **Minions** - Fiends
+- His is only a fraction of the chain lords power. He is trying to weaken the leylines by killing the dragon here.
 ## Dungeon overview
 - Litter pages from the **Scholar**'s note book on creatures in the dungeon. 
 	- Mimics
@@ -77,10 +84,13 @@ Near the entry hall from the surface is the barrics, they are haphazard with emp
 **Encounter** Merfolk fighting fiends, help the fiends the merfolk will guide the party to the deep dweller. 
 
 Have monster before they reach the Lower floor. Large icy cavern, lake at its centre
-- **Weaken ice dragon** - malnutrition, no horde to focus its magics, it has been hibernating an living off burrowing creatures it lures in with its little magic. 
+- **Weaken ice [[Dragons]]** - malnutrition, no horde to focus its magics, it has been hibernating an living off burrowing creatures it lures in with its magic. 
 	- Wards are carved into the dragons body to prevent it from using its magic to its full power. The magic anchors dragon are fix leylines, used by the [[The Ruins of Aethelguard|Aetherlians]] to keep the chain lord prisioned in the Aetherial realm. 
 	- Living in a cave for so long crippled its wings strength.
-- **Deep dweller** seeped into the space over time due to the aetherial realm connection growing stronger. Use WE when it speaks. 
+	- The dragon has a black wound on its side that some merfolk are trying to heal with medicinal herbs found in the dungeon. 
+	- Bronze horns
+	- Speaks using magic
+- **Deep dweller** seeped into the space over time due to the aetherial realm connection growing stronger. Use WE when it speaks, has a ornate silver collar around where its neck should be. 
 	- It has driven the dragon mad, The dragon has iced over the lake he deep dweller is in to protect it. 
 		- It has been using its abilities to keep the dragon feed, knowing the importance of it remaining to keep the chained lord locked down.
 		- The empire has been killing dragons to make their Auxiliary. inadvertently helping free the chain lord.
