@@ -47,47 +47,86 @@ Work for  [[Lord Sorel of D’Que]] looking for the scholar
 	- "Room B9 - filled with heat from an open lava source. The wards in this room no longer work it seems. their shape fits into the wards used for heating food found in room A12. It appears they might have been used to cool the room."
 	- "Room B14 - The plants in this room have cleared died having not been tendered to for years yet they haven't rotted. This is why the keepers work to re-learn the art of the wards. the ability to keep food for longer would aid sea farers and those who live in remote places."
 	- "Room A12 - A kitchen, wards on benches with char markings indicate they were used for heating. These wooden boxes in the pantry have wards on them but the degradation of the wood over time broke their connection to the Aetherial realm"
-	- Working wards have bronze in them. Bronze is required to make wards work. But not any bronze, using normal forged bronze wont work, only the mined bronze from the peculiar veins found in the mountains bordering the valley. This is similar to an observation in the early days of Aux manufacturing when standard bronze used to make Auxiliary would not enable magic to be infused into it. Some of the wards seem to no longer hold magic, perhaps these were made using standard bronze, this hypothesis needs to be tested, I have collected a sample for now - pouch LM3. If these were made using standard bronze it would redefine how we understand the fall of the aethelguard civilization.  
+	- Working wards have bronze in them. Bronze is required to make wards work!  But not any bronze, using normal forged bronze wont work, only the mined bronze from the peculiar veins found in the mountains bordering the valley. When this bronze is held to the ward it activates the innate magics of it. Some of the lamps in this space have switches that push bronze in and out of the wards activating the light. Amazing we found such preserved artefacts. 
+	  This maybe similar to an observation in the early days of Aux manufacturing when standard bronze used to make Auxiliary would not enable magic to be infused into it. Some of the wards seem to no longer hold magic, perhaps these were made using standard bronze, this hypothesis needs to be tested, I have collected a sample for now - pouch LM3. If these were made using standard bronze it would redefine how we understand the fall of the aethelguard civilization.  
 ### Entry
 **Impulses** To keep adventures out. 
 **Hazards:** Traps some are deactivated by the keepers, so are self resting or haven't been found yet. 
+**Warded lamps** - line the passage, some of the wards work other do not. 
 
 #### Barracks
 Near the entry hall from the surface is the barrics, they are haphazard with empty weapon racks and wide open doors. Bottles with half drunken liquor, stone hard half eaten bread, beds left unmade their sheets old and moth eaten.
-- In the centre is a **training room** with animated armour, a ward in the centre activates them.
+- In the centre is a **training room** with **animated armour**, a ward in the centre activates them.
 - **Head officer office** - Spell scroll
 - The **washroom** has  a heated pool, now home to a elemental that's very relaxed.
 - **Loot:** - Elundrian Chain Armor - reduces incomming magic dmg by yor armour score. Put on one of the animated armour. 
-
+#### Encounters
+1. Traps
+2. Adventures
+3. Merfolk
+4. Fiends
+5. Merfolk vs Fiends
+6. Secret room with loot. 
 ### Cave
 **Impulses** Hazardous Maze, scary monsters, PC are invaders to a monster territory. 
 **Hazards:** Traps set by the Seekers, Pit falls, stalagmites, toxic fungi, big monster. 
-**Monsters:** Urco, Night children, demons ect
+**Monsters:** Urco, Night children, merfolk, demons ect
+
+**Links** - Above ground Entrance, Facilites; Storage room -near the forge, zoo, and alchemy lab-  and Ballroom, Lift shaft, Lower floor; Lounge. 
+
+**Encounter** Merfolk fighting fiends, help the fiends the merfolk will guide the party to the deep dweller. 
+
+Have monster before they reach the Lower floor. Large icy cavern, lake at its centre
+- **Weaken ice dragon** - malnutrition, no horde to focus its magics, it has been hibernating an living off burrowing creatures it lures in with its little magic. 
+	- Wards are carved into the dragons body to prevent it from using its magic to its full power. The magic anchors dragon are fix leylines, used by the [[The Ruins of Aethelguard|Aetherlians]] to keep the chain lord prisioned in the Aetherial realm. 
+	- Living in a cave for so long crippled its wings strength.
+- **Deep dweller** seeped into the space over time due to the aetherial realm connection growing stronger. Use WE when it speaks. 
+	- It has driven the dragon mad, The dragon has iced over the lake he deep dweller is in to protect it. 
+		- It has been using its abilities to keep the dragon feed, knowing the importance of it remaining to keep the chained lord locked down.
+		- The empire has been killing dragons to make their Auxiliary. inadvertently helping free the chain lord.
+			- [[Yindr]] has tales of a dragon living where the mine currently is.
+	- The deep dweller wants freedom from the chained lord, its a collective of the Magisters that were killed here. It claims to hate the ashen raven and is sorry it didn't believe the tales of its ancestors.
+		- The Deep dweller seeks to regain the power the magisters once had in the valley.
+
 ### Facilities
 **Impulses** Entertain, provide for lords, bring outside comforts inside. 
 1. **Garden** - Dead plants due to lack of sunlight, wards for plant growth and wards that prevent rotting and excess mold. 
+	- Sunshine from above outside, a many wards curve round this possible entrance.
+	- Secret room leads to kitchens
 	- **A fresh dead body of an elf in ancient clothing** and at patch of dried blood hints at a stab wound in his side. 
 		- **Crystal** in his coat that describes planting new requested plants by the mage lords. The flashing doesn't match the vocal pattern of the voice speaking, decoding the morse code turns it into a warning about an attack on the bunker. 
-2. **Trapped scholar** - inside a lords panic room, trying to keep as far as possible from the skeleton that remains there. 
-	-  A recording crystal of a mage from the mage class before the rebellious started, commenting on the impact and growth of the movement, annoyed that the people easily forget that the mage class is the reason for their current lifestyle. Audio is corrupted in places.
-	- The skeleton wears Tier 2 mage robes.
-	- A magic item here can help locate missing items, even when they are apart. 
-3. **Forge** - The wards that once kept this place cool in room with lava flow no longer work, in some rooms they do. 
-4. **Map room** - old trading charts, 
+			- Notes hidden in a crystal stone show the hidden passages thru the bunker. 
+2. **Forge** - The wards that once kept this place cool in room with lava flow no longer work, in some rooms they do. 
+	- 3 Forge pits - 2 with lava, one with molten mirror similar to liquid Mercury with an odourless smell that leaves a metallic taste in the mouth. 
+	- Spend **Fear** - Unintentional larva trap
+3. **Map room** - old trading charts, 
 	- One detailing a route to an island noted as home to reclusive people who live underground.
 	- Another Plans to build towers for newly elevated mages along the leylines. One of the leylines crosses over where [[Yindr]] is, this is a grassland area with no mountains. Another leyline crosses over the current location, its geography is similar to now.
-5. **Ball room:** music forced dancing ect, rotten instruments that attack and play disordant music. If the ward on them is found with a DC 14 check they can be disabled easily with a targeted attack - cost hope deals extra dmg. There is a chaderler to hang from 
-6. **Long stay rooms** - about 36 decadent rooms each with their own unique doors, some ornately carved, 
+4. **Ball room:** music forced dancing ect, rotten instruments that attack and play disordant music. If the ward on them is found with a DC 14 check they can be disabled easily with a targeted attack - cost hope deals extra dmg. There is a chandler to hang from.  
+	- cave in on the side opposite the stage. 
+5. **Apartments - Long stay rooms** - about 36 decadent rooms -kitted out with kitchens, parlours, bed chambers, stylised room reminiscent to the outside world- each with their own unique doors. 
 	- Each room has a hidden panic room with a metal coating over iron wood. These heavy doors failed when the magic was cut off by the ashen raven.
 		- Scholar trapped here.
+	- **Trapped scholar** - inside a lords panic room, trying to keep as far as possible from the skeleton that remains there. 
+		-  A recording **crystal** of a mage from the mage class before the rebellious started, commenting on the impact and growth of the movement, annoyed that the people easily forget that the mage class is the reason for their current lifestyle. Audio is corrupted in places.
+			- The skeleton wears Tier 2 mage robes.
+			- Around the skeletons neck is a ornate silver collar encrusted with gems worth 100gp. 
 	- **Shimmering silver door** - seemingly made out of shinning treads, the slight gust of air causes them to emanate a melody.
-		- There is no clear door handle. 
+		- There is no clear door handle.
+		-  A magic item here - a flute with wards- that can help locate missing items, even when they are apart. Works by call and response when the person thinks of the object. The better the performance the quicker the item is located. 
+	- **Cursed Mirror**
+		- PCs come into a space random assortment of furniture bunched near the door.
+		- On the wall near the entrance is a mirror with a delayed reflection.
+			- Soon their reflection is attacked by demons
+		- Approach the mirror they find they can cross it.
+			- 3 are replaced by a demon shapeshifter. Pass out the stats to players for the shapeshifter., - they can spend your fear to make moves. DC 16. TH 15/25 
 	- **A wooden door carved into a rose bush** - No obvious door handle but an inscription hidden nearby reads - "The Magister boasts of what flows from ancient veins. Villein bear the same but it does not let them rein. Roses thirst for it. Thorns draw it freely. To pass into Krasa domain, do not name it." 
 		- Room has wards that still function that keep rich clothing intact, and weapons unrusted
-			-**Loot** - Improved brass knuckles. A robe with wards on it that cast illusions, bronze inlay connects the wards. 
-	- This room has a crystal with a recording from a woman who was the mistress of a magister. 
-		- "Back home there are rumblings of this Ashen Raven figure... my family is worried about me and my proximity to Magister Rassvet Hel'andis. But she brought me to this lovely bunker... any revolution of the Ashen raven surly wont reach us here. We have been making the most beautiful music together, her fingers move as if her ancestors guide them." 
-7. **Alchemy room** - Poison [[Oozes|Ooze]] with random potion effects for its attacks in a cabinet for potions.
+			-**Loot** - Improved brass knuckles. A robe with wards on it that cast illusions, bronze inlay connects the wards. Moving paintings - gif like. 
+		- This room has a crystal with a recording from a woman who was the mistress of a magister. 
+			- "Back home there are rumblings of this Ashen Raven figure... my family is worried about me and my proximity to Magister Rassvet Hel'andis. But she brought me to this lovely bunker... any revolution of the Ashen raven surly wont reach us here. We have been making the most beautiful music together, her fingers move as if her ancestors guide them." 
+6. **Zoo** - Empty cages, some have skeletons others don't, use to hint at the monster in the cave of other wandering monsters. Door to the space are broken as well, parts of it has iced over. 
+7. **Labs - Alchemy room** - Poison [[Oozes|Ooze]] with random potion effects for its attacks in a cabinet for potions.
 	- Potion effect last until washed off. Gained when they roll with fear. 
 		- Antigravity, disadvantage to atk.
 		- Part of body turns to random material but is still usable, or PC gains an animal feature

@@ -1,3 +1,4 @@
 - Hierarchical Structure, people are given their role/job in society at the age of 5. They are not allowed to do anything else.
 - Worship dragons who their noble house are decedent, highest of all is the sun dragon, second to the moon and star dragons.
 - Astrology is important to them.
+- They experience no major event 1000 years ago unlike other cultures.
